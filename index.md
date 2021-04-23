@@ -12,4 +12,6 @@
 [Markdown代码](Markdown-代码.md)
 
 [Markdown链接](Markdown-链接.md)
+[Markdown图片](Markdown-图片.md)
+[Markdown表格](Markdown-表格.md)
 
